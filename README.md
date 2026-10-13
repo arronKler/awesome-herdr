@@ -11,7 +11,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 1. [Run and orchestrate agents (855)](#1-run-and-orchestrate-agents)
    - [Official skill and foundation (1)](#official-skill-and-foundation)
    - [Multi-agent fleets and supervisors (107)](#multi-agent-fleets-and-supervisors)
-   - [Swarm, mob, and consensus orchestrators (44)](#swarm-mob-and-consensus-orchestrators)
+   - [Swarm, mob, and consensus orchestrators (43)](#swarm-mob-and-consensus-orchestrators)
    - [Claude Code multi-agent teams (260)](#claude-code-multi-agent-teams)
    - [Claude Code: Account switchers and auth monitors (3)](#claude-code-account-switchers-and-auth-monitors)
    - [Pi supervisor workflows and extensions (133)](#pi-supervisor-workflows-and-extensions)
@@ -58,7 +58,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
    - [Plugin collections and developer frameworks (6)](#plugin-collections-and-developer-frameworks)
 6. [Apps, companion integrations, and installation (185)](#6-apps-companion-integrations-and-installation)
    - [Native desktop and mobile apps (14)](#native-desktop-and-mobile-apps)
-   - [Web dashboards and remote viewers (22)](#web-dashboards-and-remote-viewers)
+   - [Web dashboards and remote viewers (23)](#web-dashboards-and-remote-viewers)
    - [Hardware and ambient displays (22)](#hardware-and-ambient-displays)
    - [Plugins and supporting utilities (103)](#plugins-and-supporting-utilities)
    - [Setup, packages, and version management (24)](#setup-packages-and-version-management)
@@ -197,12 +197,11 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 
 ### Swarm, mob, and consensus orchestrators
 
-*44 projects. Parallel agent swarms, mob-programming groups, and multi-model consensus engines.*
+*43 projects. Parallel agent swarms, mob-programming groups, and multi-model consensus engines.*
 
 | Project | What it does |
 |---|---|
 | [**powerfooI/herdr-studio**](https://github.com/powerfooI/herdr-studio) | Provides a web client for Herdr with mobile optimization, browser terminals, workspace management, and session inspection. |
-| [**arronKler/pairfob**](https://github.com/arronKler/pairfob) | Provides a phone companion surface for Herdr to monitor Codex, Claude, and Grok runs remotely. |
 | [**barnuri/herdr-web**](https://github.com/barnuri/herdr-web) | Provides a mobile-first web interface for Herdr to monitor and drive coding agents from any device browser. |
 | [**zlxlabs/herdweb**](https://github.com/zlxlabs/herdweb) | Monitors and drives coding agents from mobile devices, supporting voice input, image pasting, webhooks, and multi-device servers. |
 | [**luiscleto/shepherdr**](https://github.com/luiscleto/shepherdr) | Provides a phone-friendly web interface for Herdr: monitor agents, receive notifications, open real terminals, and send files. |
@@ -2316,7 +2315,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 
 ### Web dashboards and remote viewers
 
-*22 projects. Browser-based monitors, remote controls, and visual scenes for following Herdr agents from another screen or device.*
+*23 projects. Browser-based monitors, remote controls, and visual scenes for following Herdr agents from another screen or device.*
 
 | Project | What it does |
 |---|---|
@@ -2342,6 +2341,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 | [**riba2534/herdrx**](https://github.com/riba2534/herdrx) | Provides a self-hosted, multi-user Herdr remote terminal workbench with multi-host split panes, mobile access, and Tailscale support. |
 | [**Eden-Sun/agents-manager**](https://github.com/Eden-Sun/agents-manager) | Manages multiple coding-agent CLIs running in Herdr panes via a Rust Axum daemon and React frontend. |
 | [**hao-github-0216/remote-workspace-setup**](https://github.com/hao-github-0216/remote-workspace-setup) | Provides Cross-platform persistent remote terminal workspace (herdr + mosh/ssh). Survives lid-close, roaming, and reboot. |
+| [**arronKler/pairfob**](https://github.com/arronKler/pairfob) | Opens live Herdr agent sessions from any phone browser: pair once by QR, the computer dials out (no inbound ports, no Tailscale), E2E encrypted, no app or account. |
 
 ### Hardware and ambient displays
 
